@@ -1,4 +1,4 @@
-sale_id;branch_id;shoe_id;sale_date;َquantity_sold;total_price
+sale_id;branch_id;shoe_id;sale_date;quantity_sold;total_price
 965600;1;SA819;29.01.2024;3;450
 812647;3;FO622;10.11.2024;2;460
 919003;3;SA627;05.08.2024;3;450
