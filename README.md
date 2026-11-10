@@ -16,8 +16,6 @@ The repository documents my learning path towards a Data Analyst role.
 - Cleaning and typing columns, removing duplicates, handling errors
 - Merging and shaping tables before analysis
 
-> Update this list as new projects are added. Keep only skills that are actually demonstrated in the repository.
-
 ## How to use
 
 1. Download the dataset you want to work with.
